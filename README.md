@@ -72,3 +72,15 @@ $ ros2 run turtlebot3_teleop teleop_keyboard
 - using WASDX keys to move the robot in the simulation
 - W: forward, A: left, X: backward, D: right, S: stop
 
+# Issues faced and how to fix them
+1. Packages not installed
+    - check for uninstalled package for ROS2 especially:
+    - $ sudo apt install update
+      
+2. Rviz2 not showing the laser scan and sync with the Gazebo
+    - running commands 1 by 1 accordingly with the turtlebot3 website guide
+
+# Team member's name
+
+Azmil bin Mohyidin
+       
