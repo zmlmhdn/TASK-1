@@ -6,10 +6,15 @@ ROS: ROS2 Humble
 - The commands used were referred from the turtlebot3 website (https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup)
 
 ## Installing Gazebo, Cartographer, and Navigation 2
+
 $ sudo apt install ros-humble-gazebo-*
+
 $ sudo apt install ros-humble-cartographer
+
 $ sudo apt install ros-humble-cartographer-ros
+
 $ sudo apt install ros-humble-navigation2
+
 $ sudo apt install ros-humble-nav2-bringup
 
 ## Installing Turtlebot3 packages
